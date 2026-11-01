@@ -40,7 +40,7 @@ class Solution {
                 prev=curr;
                 curr=curr.next;
             }
-            prev.next=null;
+            
             //now move to new iteration
             prev.next=null;
 
